@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Uzairimam03/TMDB_MOVIE_API_REACT
-cd react-movies
+cd TMDB_MOVIE_API_REACT
 
 ```
 
